@@ -64,10 +64,10 @@ To get started with the Shopping Cart App, follow these steps:
 ## Screenshots
 Here are some screenshots of the Shopping Cart App:
 <p align="center">
-![Screenshot 1](Screenshots/login.png)
-![Screenshot 2](Screenshots/Homescreen.png)
-![Screenshot 3](Screenshots/products.png)
-![Screenshot 4](Screenshots/cart.png)
+  <img src="Screenshots/login.png" />
+  <img src="Screenshots/Homescreen"/>
+  <img src="Screenshots/products.png"/>
+  <img src="Screenshots/cart.png"/>
 </p>
 
 ## Contributing
