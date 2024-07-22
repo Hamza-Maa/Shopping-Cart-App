@@ -61,6 +61,15 @@ To get started with the Shopping Cart App, follow these steps:
 5. View the cart by tapping the cart icon.
 6. Proceed to checkout and complete the purchase.
 
+## Screenshots
+Here are some screenshots of the Shopping Cart App:
+<p align="center">
+![Screenshot 1](Screenshots/login.png)
+![Screenshot 2](Screenshots/Homescreen.png)
+![Screenshot 3](Screenshots/products.png)
+![Screenshot 4](Screenshots/cart.png)
+</p>
+
 ## Contributing
 
 We welcome contributions to the Shopping Cart App! If you have any improvements or new features to add, please follow these steps:
